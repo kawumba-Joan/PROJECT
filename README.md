@@ -28,7 +28,6 @@ The following are the research aims:
 5.	To achieve legal compliance by meeting data security regulatory requirements.
 6.	To evaluate the artefact.
 
-
 #### Visit phphmyadmin at:(database)
 
 http://localhost:8081/
